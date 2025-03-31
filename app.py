@@ -1,2 +1,3 @@
 num=999
-print(num)
+num2=100
+print(num*num2+num/2)
