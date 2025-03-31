@@ -1,2 +1,2 @@
-let x = 10
+let x = 777
 console.log(x);
